@@ -10,5 +10,5 @@ package principal;
  * @author MadeInLima
  */
 public class Fichero1 {
-    //Mucho curro por hoy
+    //Este fichero está listo
 }
